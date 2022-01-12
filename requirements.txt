@@ -1,0 +1,14 @@
+numpy
+Pillow
+tensorflow-cpu
+flask
+Werkzeug
+gunicorn
+opencv-contrib-python-headless
+
+
+
+
+
+
+
