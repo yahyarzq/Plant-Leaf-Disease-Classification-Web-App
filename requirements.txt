@@ -1,5 +1,5 @@
 numpy
-Pillow
+pillow
 tensorflow-cpu
 flask
 Werkzeug
