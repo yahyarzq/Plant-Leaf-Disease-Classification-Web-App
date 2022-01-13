@@ -6,6 +6,7 @@ import numpy as np
 from PIL import Image
 import pickle
 import cv2
+import sklearn
 
 app = Flask(__name__)
 

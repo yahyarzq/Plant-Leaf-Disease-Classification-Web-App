@@ -5,6 +5,7 @@ flask
 Werkzeug
 gunicorn
 opencv-contrib-python-headless
+scikit-learn
 
 
 
